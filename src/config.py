@@ -4,8 +4,8 @@
     Solo de febrero a marzo XD
 """
 
-ARCHIVOS = {"AnalisisGeneralNegativo": 1,
-            "AnalisisGeneralPositivo": 2}
+ARCHIVOS = {"AnalisisGeneralNegativo",
+            "AnalisisGeneralPositivo"}
 
 
 PARTIDOS = {"Morena", 
